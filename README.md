@@ -1,4 +1,6 @@
 # Energy-Demand-Forecasting-in-accordance-to-weather-by-LSTM.
+![Energy Demand](https://github.com/ssprakash5/Energy-Demand-Forecasting-in-accordance-to-weather-by-LSTM./assets/154003057/553e3982-a2c3-4445-8241-780ea795cb0c)
+
 Project Title: Energy Consumption Forecasting for Efficient Production and Distribution
 Project Overview:
 In this project, the objective is to develop a robust model for forecasting energy demand, providing utility companies with valuable insights to optimize energy production and distribution. The project will leverage both machine learning and deep learning techniques to enhance the accuracy and efficiency of energy consumption predictions.
