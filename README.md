@@ -60,4 +60,4 @@ Impact:
 
 Enhanced efficiency in energy production, leading to cost savings.
 Improved grid stability and reduced environmental impact through optimized weather-informed energy distribution.
-Demonstrates expertise in time series forecasting and contributes to sustainable energy management practices.
+Demonstrates expertise in time series forecasting and contributes to sustainable energy management practices. 
