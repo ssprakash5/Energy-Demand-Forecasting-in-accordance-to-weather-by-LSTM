@@ -34,10 +34,8 @@ This project aims to develop a robust model for forecasting energy demand by int
 - Extract relevant features such as time of day, day of the week, holidays, and weather conditions affecting energy consumption.
 - Create lag features to capture temporal dependencies in the data.
 
-### Machine Learning Models (Baseline)
-
-- Build machine learning regression models (e.g., Linear Regression, Decision Trees) as a baseline for energy consumption forecasting.
-- Train and evaluate these models on historical data.
+![RNN gif](https://github.com/ssprakash5/Energy-Demand-Forecasting-in-accordance-to-weather-by-LSTM/assets/154003057/b7eb3299-1b27-4600-ac50-ca771d33b3f2)
+![LSTM](https://github.com/ssprakash5/Energy-Demand-Forecasting-in-accordance-to-weather-by-LSTM/assets/154003057/f8ca58ff-fc56-44b8-8d66-aed4de65e01f)
 
 ### Deep Learning Models (LSTM)
 
