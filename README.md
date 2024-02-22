@@ -4,6 +4,8 @@
 ## Project Overview
 
 This project aims to develop a robust model for forecasting energy demand by integrating weather conditions, providing utility companies with insights to optimize energy production and distribution. Leveraging machine learning and deep learning techniques, particularly Long Short-Term Memory (LSTM) networks, the goal is to enhance the accuracy and efficiency of energy consumption predictions.
+The LSTM model trained with Hourly Energy Demand and Weather dataset(https://www.kaggle.com/datasets/nicholasjhana/energy-consumption-generation-prices-and-weather)
+
 ![Energygen](https://github.com/ssprakash5/Energy-Demand-Forecasting-in-accordance-to-weather-by-LSTM/assets/154003057/8ce78938-8813-4f32-b66e-816439578540)
 ![weather](https://github.com/ssprakash5/Energy-Demand-Forecasting-in-accordance-to-weather-by-LSTM/assets/154003057/b99283ad-698b-40b6-99e8-0dfcb8484296)
 
